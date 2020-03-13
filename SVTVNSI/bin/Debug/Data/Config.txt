@@ -1,0 +1,5 @@
+Data Source=SV-CAS-65\SQLEXPRESS;Initial Catalog=SQLDBCAMERAAI;User ID=sa;Password=123456
+
+
+
+
